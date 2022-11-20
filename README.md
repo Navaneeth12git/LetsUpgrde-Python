@@ -1,2 +1,2 @@
 # LetsUpgrde-Python
-Assignment Day2 submission
+Assignment submissions
